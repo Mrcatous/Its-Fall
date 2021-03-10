@@ -1,0 +1,17 @@
+﻿I'm sorry, but errors were detected in your game.
+
+
+File "audio/s6.ogg", Corupption detected flie recovered at /x64/recover
+    s6.ogg
+                       ^
+
+Ren'Py Version: Ren'Py 7.4.0.1167
+Wed Jan 13 15:03:26 1995
+
+I'm sorry, but errors were detected in your death
+
+
+File "game/script.rpy", line 10: expected 'death' not found.
+
+Ren'Py Version: Ren'Py 7.4.0.1167
+Sat Jan 16 19:16:47 1995
